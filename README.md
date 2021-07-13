@@ -7,6 +7,6 @@ On 06th June, I completed the first part of the MOOC. At first, it covered logic
 
 Here's my certificate for part 1.
 
-<img src="https://user-images.githubusercontent.com/53430986/125456478-7ab091a5-1ff7-4ee1-97ca-5b8c697d6fdf.png" width="50%">
+<img src="https://user-images.githubusercontent.com/53430986/125456478-7ab091a5-1ff7-4ee1-97ca-5b8c697d6fdf.png" width="75%">
 
 I'll keep updating this until I complete part 2.
