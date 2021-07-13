@@ -1,4 +1,4 @@
-On this repo we have all the exercises that I've done from the "Object Oriented Programming with Java" MOOC made by the University of Helsinki. 
+On this repo we have all the exercises that I've done from the "Java Programming" MOOC made by the University of Helsinki. 
 
 The course explains the concepts very clearly. I can see some progress at this first stage. Looking forward to complete part 2!
 
