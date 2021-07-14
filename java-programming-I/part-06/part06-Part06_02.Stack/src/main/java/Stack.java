@@ -43,16 +43,7 @@ public class Stack {
 
     @Override
     public String toString() {
-        String stackValues = "[";
-
-        for (String value : stack) {
-            stackValues += value;
-        }
-
-        stackValues += "]";
-
-        return stackValues;
-
+        return this.stack.toString();
     }
 
 }
