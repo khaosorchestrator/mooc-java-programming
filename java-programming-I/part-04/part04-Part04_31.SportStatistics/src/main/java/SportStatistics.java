@@ -41,6 +41,7 @@ public class SportStatistics {
             System.out.println("Wins: " + countWins);
             System.out.println("Losses: " + countLosses);
         } catch (Exception e) {
+            System.out.println("Error: " + e.getMessage());
         }
     }
 
