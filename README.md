@@ -3,7 +3,7 @@ On this repo we have all the exercises that I've done from the "Java Programming
 The course explains the concepts very clearly. I can see some progress at this first stage. Looking forward to complete Java Programming II!
 
 # My thoughts on the course
-On 06th June 2021, I completed the Java Programming I of the MOOC.fi. At first, it covered logic basics that I was familiar with, as I had previously studied programming logic years ago. Afterwards, the MOOC.fi proceeds to introduce more complex concepts. The course is certainly solid and simple to understand. Although some exercises seem tricky to solve, it teaches the concepts in a well-structured manner and I was able to grasp that information after all.
+I started 23th May 2021 and on 06th June 2021, I completed the Java Programming I of the MOOC.fi. At first, it covered logic basics that I was familiar with, as I had previously studied programming logic years ago. Afterwards, the MOOC.fi proceeds to introduce more complex concepts. The course is certainly solid and simple to understand. Although some exercises seem tricky to solve, it teaches the concepts in a well-structured manner and I was able to grasp that information after all.
 
 Here's my certificate for Java Programming I.
 
