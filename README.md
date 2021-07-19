@@ -7,6 +7,6 @@ I started 23th May 2021 and on 06th June 2021, I completed the Java Programming 
 
 Here's my certificate for Java Programming I.
 
-<img src="https://user-images.githubusercontent.com/53430986/125456478-7ab091a5-1ff7-4ee1-97ca-5b8c697d6fdf.png" width="75%">
+<img src="https://user-images.githubusercontent.com/53430986/125456478-7ab091a5-1ff7-4ee1-97ca-5b8c697d6fdf.png" width="50%">
 
 I'll keep updating this until I complete Java Programming II.
