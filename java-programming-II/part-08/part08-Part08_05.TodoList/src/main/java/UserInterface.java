@@ -8,12 +8,12 @@ import java.util.Scanner;
  */
 /**
  *
- * @author lucas
+ * @author Lucas ALmeida
  */
 public class UserInterface {
 
-    private Scanner scanner;
-    private TodoList tasks;
+    private final Scanner scanner;
+    private final TodoList tasks;
 
     public UserInterface(TodoList tasks, Scanner scanner) {
         this.tasks = tasks;
@@ -21,23 +21,28 @@ public class UserInterface {
     }
 
     public void start() {
+        label:
         while (true) {
             System.out.print("Command: ");
-            String command = this.scanner.nextLine();
+            String command = scanner.nextLine();
 
-            if (command.equals("stop")) {
-                break;
-            } else if (command.equals("add")) {
-                System.out.print("Task: ");
-                String task = this.scanner.nextLine();
+            switch (command) {
+                case "stop":
+                    break label;
+                case "add":
+                    System.out.print("Task: ");
+                    String task = scanner.nextLine();
 
-                this.tasks.add(task);
-            } else if (command.equals("list")) {
-                this.tasks.print();
-            } else if (command.equals("remove")) {
-                System.out.println("Which one is removed? ");
-                int taskNumber = Integer.valueOf(this.scanner.nextLine());
-                this.tasks.remove(taskNumber);
+                    tasks.add(task);
+                    break;
+                case "list":
+                    this.tasks.print();
+                    break;
+                case "remove":
+                    System.out.println("Which one is removed? ");
+                    int taskNumber = Integer.parseInt(scanner.nextLine());
+                    tasks.remove(taskNumber);
+                    break;
             }
         }
     }
